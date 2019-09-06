@@ -1,6 +1,6 @@
 # Drone-Project-2018
-Main PID regulator is written in Arduino/C 
-# Components:
+Main PID regulator is written in Arduino/C, the biggest problem is to tune pid regulator 
+# Components
 * Propellers: 4x 1045 10 inch Dia 4.5 inch Pitch CW/CCW  Prop</br>
 https://www.aliexpress.com/item/32835557625.html?spm=a2g0s.9042311.0.0.75ae4c4dl7BsaM
 * Giroscope/Accelerometer Sensor : MPU-6050 MPU6050 </br>
@@ -20,3 +20,4 @@ https://www.aliexpress.com/item/32832366092.html?spm=a2g0s.9042311.0.0.27424c4dO
 * Morots: 2212 920KV Brushless Motor CW CCW </br>
 https://www.aliexpress.com/item/32275914092.html?spm=a2g0s.9042311.0.0.27424c4deDhWoQ 
 * Frame: self-made out of aluminum components
+# Photo
