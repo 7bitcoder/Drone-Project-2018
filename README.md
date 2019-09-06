@@ -19,4 +19,4 @@ https://www.aliexpress.com/item/32425895363.html?spm=a2g0o.productlist.0.0.2d233
 https://www.aliexpress.com/item/32832366092.html?spm=a2g0s.9042311.0.0.27424c4dOhcB6F
 * Morots: 2212 920KV Brushless Motor CW CCW </br>
 https://www.aliexpress.com/item/32275914092.html?spm=a2g0s.9042311.0.0.27424c4deDhWoQ 
-* Frame: self made from aluminiom components
+* Frame: self-made out of aluminum components
