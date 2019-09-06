@@ -1,5 +1,9 @@
 # Drone-Project-2018
 Main PID regulator is written in Arduino/C, the biggest problem is to tune pid regulator 
+# Photo
+# Description
+Esc are directly controlling brushless motors to keep propellers thrust proportional to controller pwm signal (arduino).
+Arduino is computing pwm control signal based on data from Mpu sensor (pitch roll yaw), to keep drone stable. Communication is built with NRF radio modules to send control: drone pitch, roll, yaw and power of drone thrust 10-100%. The drone is powered by 3s 4200mah LiPo battery.
 # Components
 * Propellers: 4x 1045 10 inch Dia 4.5 inch Pitch CW/CCW  Prop</br>
 https://www.aliexpress.com/item/32835557625.html?spm=a2g0s.9042311.0.0.75ae4c4dl7BsaM
@@ -20,4 +24,4 @@ https://www.aliexpress.com/item/32832366092.html?spm=a2g0s.9042311.0.0.27424c4dO
 * Morots: 2212 920KV Brushless Motor CW CCW </br>
 https://www.aliexpress.com/item/32275914092.html?spm=a2g0s.9042311.0.0.27424c4deDhWoQ 
 * Frame: self-made out of aluminum components
-# Photo
+
