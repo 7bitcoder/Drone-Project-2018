@@ -1,4 +1,4 @@
-# Drone-Project-2018
+# Drone-Project-2018 (!!!suspended!!!)
 Main PID regulator is written in Arduino/C, the biggest problem is to tune pid regulator 
 # Photo
 # Description
